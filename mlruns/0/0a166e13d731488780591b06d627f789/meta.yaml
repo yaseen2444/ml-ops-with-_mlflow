@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0a166e13d731488780591b06d627f789/artifacts
+end_time: 1738859505296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a166e13d731488780591b06d627f789
+run_name: upset-skink-383
+run_uuid: 0a166e13d731488780591b06d627f789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738859505217
+status: 3
+tags: []
+user_id: India

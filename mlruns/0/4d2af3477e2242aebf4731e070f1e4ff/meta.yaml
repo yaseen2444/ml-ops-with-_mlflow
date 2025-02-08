@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4d2af3477e2242aebf4731e070f1e4ff/artifacts
+end_time: 1738859525692
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d2af3477e2242aebf4731e070f1e4ff
+run_name: unruly-owl-634
+run_uuid: 4d2af3477e2242aebf4731e070f1e4ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738859525610
+status: 3
+tags: []
+user_id: India

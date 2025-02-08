@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/31e43762202044329b78cbb29eb5c3c7/artifacts
+deleted_time: 1738860406315
+end_time: 1738859924070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 31e43762202044329b78cbb29eb5c3c7
+run_name: charming-kite-94
+run_uuid: 31e43762202044329b78cbb29eb5c3c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738859921541
+status: 4
+tags: []
+user_id: India

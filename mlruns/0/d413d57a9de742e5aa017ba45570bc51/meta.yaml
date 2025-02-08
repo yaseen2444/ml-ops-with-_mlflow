@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d413d57a9de742e5aa017ba45570bc51/artifacts
+end_time: 1738860565121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d413d57a9de742e5aa017ba45570bc51
+run_name: adorable-wolf-73
+run_uuid: d413d57a9de742e5aa017ba45570bc51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738860564490
+status: 3
+tags: []
+user_id: India

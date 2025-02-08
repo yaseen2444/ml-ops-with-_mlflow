@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/651318760951184137/4f81f8b9e3e0476ca366d6cbf9ce052f/artifacts
+end_time: 1738860758148
+entry_point_name: ''
+experiment_id: '651318760951184137'
+lifecycle_stage: active
+run_id: 4f81f8b9e3e0476ca366d6cbf9ce052f
+run_name: bemused-lynx-844
+run_uuid: 4f81f8b9e3e0476ca366d6cbf9ce052f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738860757515
+status: 3
+tags: []
+user_id: India

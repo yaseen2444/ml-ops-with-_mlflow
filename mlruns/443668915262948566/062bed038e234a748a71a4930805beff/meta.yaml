@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/443668915262948566/062bed038e234a748a71a4930805beff/artifacts
+end_time: 1738861403574
+entry_point_name: ''
+experiment_id: '443668915262948566'
+lifecycle_stage: active
+run_id: 062bed038e234a748a71a4930805beff
+run_name: burly-mule-783
+run_uuid: 062bed038e234a748a71a4930805beff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738861382776
+status: 3
+tags: []
+user_id: India
